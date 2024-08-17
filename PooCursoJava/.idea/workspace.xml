@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1477df46-e07d-4a99-a7be-911a4f2d2115" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculadora/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadora/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/img/Hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/img/Mago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-NewMemoria/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01teste/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01teste/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AtividadeFrontEnd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoPong/pong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoPong/pong.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjetoPong/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/ByeBye.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/GoodybyeVisualG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/atividade1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/atividade2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/atividade3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/atividade4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/atividade5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/tabuada.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-AtividdaesRepeticao/tabuada2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/Algoritmo9.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/OrdenarVetor.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/algoritimoProcedimentos.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/algoritmo2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/algoritmo3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/algoritmo8.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/anotacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/aula10.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/aula2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-cursologica/matrizvetor.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/ExercicioDollynho.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/ExercioNivel4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/MaisUmDaMediaSoQueCertinho.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/cinema.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/cinemaCERTO.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/corrigirprovas.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/exercicioImcompleto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/exercicovetor.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-exercicioDollynho/mediaNovamente.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-repeticao.ALG/Enquanto.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-repeticao.ALG/Para.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Z-repeticao.ALG/Repita.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chatgbp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chatgbp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/img/costs_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/img/loading.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/img/savings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../const/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0-calcukadora/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0-calcukadora/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0-calcukadora/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0projetofinalcurso/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0projetofinalcurso/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/0projetofinalcurso/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/dia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/dia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/lua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1- exercicio001/tarde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1-aulaFlex/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1-aulaFlex/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1-campanhaDoThawan/ejavas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1-campanhaDoThawan/indx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/1-campanhaDoThawan/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/2-exercicio002/algo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/2-exercicio002/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/2-exercicio002/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/3-exercicio003/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/3-exercicio003/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/3-exercicio003/tabuada.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/4-exercicio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/4-exercicio/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/4-exercicio/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/5-exercicio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/5-exercicio/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/5-exercicio/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/img/JunkWarrior-SDSE-PT-C-1E.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/img/cardAtras.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/img/download.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/img/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/img/yugioh_lc5d-en029_en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/JogoDaMEmoria/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula001/exemplo001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula001/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula001/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula0015/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula0015/arraysoma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula0015/teste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula002/exercicio002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula002/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula002/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula003/exemplo003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula003/styleEx3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula003/teste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula004/exemplo004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula004/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula004/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula005/exemplo005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula005/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula005/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula009-DOM/DOM.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula009-DOM/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula009-DOM/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioCores/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioCores/interacao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioCores/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioSoma/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioSoma/soma.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/ExercicioSoma/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/calculadora/calculadora.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/calculadora/index01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula010-DOM/calculadora/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula012-Condicoes/condicao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula012-Condicoes/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula013- Repeticao/contar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula013- Repeticao/for.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula016- funcao/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula016- funcao/teste.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula017-Final/objetos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula020-teste/aula020-testes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula020-teste/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula021-objetos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula021-objetos/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula022-eventos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula022-eventos/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula023-array/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula023-array/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula024-JSON/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/aula024-JSON/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/ccomponent/Caminho.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Condicional.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Contato.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Empresa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Estrutura.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Evento.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Formulario.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Frase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Frase.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/MyName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/OutraLista.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Pessoa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/Salve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/SeuNome..js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/componentes/evento/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/pages/Aba1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/pages/Aba2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-projeto/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste-div.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cjRnCT2jEAXSqqmKZ9k7qZihrW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;joao&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PooCursoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PooCursoJava" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1477df46-e07d-4a99-a7be-911a4f2d2115" name="Changes" comment="" />
+      <created>1708623170613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708623170613</updated>
+    </task>
+    <servers />
+  </component>
+</project>

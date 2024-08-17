@@ -1,0 +1,11 @@
+package co.Encapsulamento;
+
+public class Main {
+    public static void main(String[] args) {
+        //os get e setters nao é obrigatorio ser privado
+        ControleRemoto c1 = new ControleRemoto();
+        c1.ligar();
+        c1.ligarMudo();
+        c1.abrirMenu();
+    }
+}
